@@ -4,4 +4,8 @@ I found a chrome extension that supposedly unblocks this game, however, you can'
 
 
  Link to the original chrome extension: (i found it on a shady website lol)
+ 
+ 
+ 
+ 
  Link to ruffle: https://ruffle.rs
